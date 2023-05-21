@@ -205,3 +205,4 @@ mutation editrestaurants($idd: Int = 2, $name: String = "Changed Restaurant Name
     description
   }
 }
+*/
